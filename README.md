@@ -23,7 +23,6 @@ This project predicts student scores based on study hours using Linear Regressio
 
 ## Terminal Output
 
-![Output](terminal-output.png)
-
+![Output](terminal-output..png)
 ## Author
 Priya
